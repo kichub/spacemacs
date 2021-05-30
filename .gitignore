@@ -5,7 +5,6 @@
 /*.zip
 .DS_Store
 .ac-php-conf.json
-.cache
 .dap-breakpoints
 .directory
 .emacs.desktop
@@ -37,7 +36,6 @@ crown/
 eclipse.jdt.ls
 edts/
 elnode/
-elpa/
 EmmyLua-LS-all.jar
 eproject.lst
 eshell/alias
@@ -57,10 +55,8 @@ python-*-docs-html
 quickurls
 racket-mode/
 semanticdb/
-server/
 tmp/
 tramp
-transient/
 url/*
 var/
 workspace
